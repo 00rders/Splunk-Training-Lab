@@ -1,4 +1,4 @@
-# 🟢 Splunk Cloud Training Lab&#x20;
+# 💻 Splunk Cloud Training Lab&#x20;
 
 **Cloud-ready lab to learn Splunk search, detection, dashboarding, and alert triage — built by a self-taught analyst → for self-taught analysts.**
 
