@@ -14,7 +14,7 @@ All exercises are fully compatible with **Splunk Cloud Free Trial**, so you can 
 
 ## ✅ 1. Prerequisites
 
-* ☁️ **Splunk Cloud Trial Account** → [Sign up here](https://www.splunk.com/en_us/cloud-trial.html)
+* ☁️ **Splunk Cloud Trial Account** → [Sign up here](https://www.splunk.com/en_us/download.html)
 * 🔗 Access Splunk via browser: `https://<yoursubdomain>.splunkcloud.com`
 * 📒 Download the contents of this repo or clone it locally
 
