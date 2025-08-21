@@ -143,3 +143,4 @@ Got ideas, dashboards, or new data sources? Fork this repo and submit a PR.
 ---
 
 > Built by an aspiring Splunk professional > for aspiring Splunk professionals
+> Special thanks to [groua7](https://github.com/groua7) for inspiration and resources.
