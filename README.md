@@ -144,3 +144,12 @@ Got ideas, dashboards, or new data sources? Fork this repo and submit a PR.
 
 > Built by an aspiring Splunk professional > for aspiring Splunk professionals
 > Special thanks to [groua7](https://github.com/groua7) for inspiration and resources.
+
+## Scenarios
+- 01 Brute Force (4625→4624)
+- 02 Malicious PowerShell (4104/4688)
+- 03 LOLBIN Download/Exec
+- 04 Scheduled Task Persistence (4698)
+- 05 Lateral Movement (PsExec/WMI)
+- 06 Data Exfil (7zip + curl/certutil)
+- 07 LSASS Access Attempt

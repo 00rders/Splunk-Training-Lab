@@ -1,0 +1,10 @@
+techniques:
+  - id: T1110        # Brute Force
+  - id: T1059.001    # PowerShell
+  - id: T1218        # Signed Binary Proxy Exec (LOLBINs)
+  - id: T1053        # Scheduled Task/Job
+  - id: T1021        # Remote Services (PsExec/WMI)
+  - id: T1569.002    # Service Execution
+  - id: T1041        # Exfiltration Over C2/Alt Channel
+  - id: T1560        # Archive Collected Data
+  - id: T1003        # OS Credential Dumping (LSASS)
